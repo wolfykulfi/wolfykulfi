@@ -1,8 +1,8 @@
-# Hi there, I'm Utkarsh 👋
+
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-> *shipped AI. hold a patent. still figuring out git push.*
+> *broke prod, fixed it, shipped it. repeat.*
 
 I'm a **Computer Science Engineering student** at SRM University, Chennai — building things that think, breaking things that shouldn't, and occasionally sleeping.
 
@@ -19,7 +19,7 @@ I care about making AI that's actually useful in the real world — not just coo
 - 🎯 Goal: Build AI products that ship to real users, not just notebooks
 - ⚡ Fun fact: I trained a reinforcement learning agent before I knew how to center a div
 - 📫 Reach me at: **utkarshgautam14.ug@gmail.com**
-- 📄 [Resume](https://linkedin.com/in/utkarsh-gautam14) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/utkarsh-gautam14)
+- 📄 [LinkedIn](https://linkedin.com/in/utkarsh-gautam14)
 
 ---
 
@@ -67,19 +67,6 @@ I care about making AI that's actually useful in the real world — not just coo
 | [🧠 Snapalyze](https://github.com/wolfykulfi/Snapalyze) | AI-powered real-time image analysis & object detection | React, Gemini API, GCP |
 | [👗 AI Fashion](https://github.com/wolfykulfi/ai-fashion) | Visual recognition platform for fashion & color analytics | React, Cloud Vision API, Vercel |
 | [🚦 Adaptive Traffic Control](https://github.com/wolfykulfi/Adaptive-Traffic-Signal-Control) | RL agent that optimizes traffic signal timing in simulation | Python, RL, SUMO, TraCI |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wolfykulfi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfykulfi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wolfykulfi&theme=tokyonight&hide_border=true" width="60%" />
-</p>
 
 ---
 
