@@ -75,7 +75,7 @@ I care about making AI that's actually useful in the real world — not just coo
 - 📜 **Published Patent** — Smart Blind Spot Detection & Distance Measurement System (IP India, 2026)
 - ☁️ **Google Cloud Certified** — Generative AI & Image Captioning Models
 - 📐 **MATLAB Certified** — Machine Learning, Deep Learning, Image Processing
-- 🎓 **CGPA: 9.03/10** — SRM University, Chennai
+- 🎓 **CGPA: 9.11/10** — SRM University, Chennai
 
 ---
 
